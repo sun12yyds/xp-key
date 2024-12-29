@@ -277,4 +277,4 @@ XP can only be used on one PC, but the ones for VOL editions can be supplied
 for any number of PCs for use. Second, retail edition of XP need activation,
 while VOL editions don't implement this concept. Last, VOL editions of XP don't
 have a Home Edition, and their function is exactly the same as a Professional
-Edition.
+Edition
